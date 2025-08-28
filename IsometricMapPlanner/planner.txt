@@ -1,0 +1,4 @@
+Making test tiles either 640x360 or 320x180 to fit most resolutions
+Make a system to place maps, save data, place characters, eventually control
+characters must have 4 sprites per direct [TopLeft, TopRight, BottomLeft, BottomRight]
+Tiles must *never* rotate, too much pain, however stairs could in the builder(which would be different sprites)
